@@ -1,0 +1,1 @@
+Try to push a branch which is not a main branch to the owned git repo.
